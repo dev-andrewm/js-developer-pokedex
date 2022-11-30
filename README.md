@@ -20,7 +20,7 @@ Os usuários devem conseguir:
 
 ### Screenshot
 
-![](screenshot/pokemon_details.jpg)
+![](screenshot/Pokemon_details.jpg)
 
 ### Links
 
