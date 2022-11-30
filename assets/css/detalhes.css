@@ -1,0 +1,11 @@
+.pokemon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.detalhe {
+    list-style: none;
+    line-height: 25px;
+}
